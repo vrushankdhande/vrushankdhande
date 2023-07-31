@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **SQL, Fjango, Flutter**
+- 🌱 I’m currently learning **SQL, Django, Flutter**
 
 - 🤝 I’m looking for help with **python developers**
 
