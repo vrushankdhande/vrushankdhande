@@ -1,3 +1,4 @@
+![logo](https://github.com/vrushankdhande/vrushankdhande/blob/main/my_background.jpeg)
 <h1 align="center">Hi 👋, I'm Vrushank Dhande</h1>
 <h3 align="center">A passionate Machine Learning and python coding🙂🙂</h3>
 
