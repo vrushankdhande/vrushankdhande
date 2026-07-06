@@ -76,6 +76,36 @@
 
 ---
 
+### 📊 GitHub Stats & Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vrushankdhande&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vrushankdhande&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrushankdhande&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vrushankdhande&theme=tokyo-night&hide_border=true" alt="Contribution activity graph" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vrushankdhande&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
+</p>
+
+> **Note:** These cards are live and pull fresh data on every page load — no manual updating needed. If one looks blank for a minute, it's the public rendering service being briefly overloaded; refreshing the page fixes it. See the note below on making these bulletproof.
+
+---
+
+### 📅 Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+*(Auto-updated daily — see setup instructions below)*
+
+---
+
 <div align="center">
 
 *⭐️ From [Vrushank Dhande](https://github.com/vrushankdhande) — thanks for stopping by!*
